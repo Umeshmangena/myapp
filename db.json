@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users" : [
+    {
+      "name": "Suresh Kakarla",
+      "age": "23"
+    },
+
+    {
+      "name": "Uma ",
+      "age": "20"
+    },
+
+    {
+      "name": "Sowmya",
+      "age": "18"
+    }
+  ]
+}
